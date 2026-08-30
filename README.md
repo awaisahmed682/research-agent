@@ -1,5 +1,7 @@
 # Research Agent
 
+🚀 **Live Demo: https://research-agent-livid.vercel.app**
+
 A production-ready multi-step research agent built with **Next.js 15**, **Vercel AI SDK**, and **LangGraph.js**. Features tool-calling, streaming responses, web search, document retrieval (RAG), code execution, and LangSmith observability.
 
 ## Architecture
