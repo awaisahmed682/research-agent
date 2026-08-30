@@ -1,6 +1,6 @@
 # Research Agent
 
-🚀 **Live Demo: https://research-agent-livid.vercel.app**
+🚀 **Live Demo: https://research-agent-ai-project-4c79.vercel.app**
 
 ![Research Agent](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![Vercel AI SDK](https://img.shields.io/badge/AI%20SDK-4.0-0070f3?logo=vercel)
